@@ -49,3 +49,9 @@ Sie ist für die Git-Übungsaufgabe gedacht, in der ein `dev`-Branch erstellt,
   ```
 
 Viel Erfolg!
+
+## Änderungsprotokoll
+- In der index.html folgendes hinzugefügt
+	- Meinen Vor- und Nachnamen
+	- Meine Klasse
+	- Eine kurze Beschreibung über mich selbst
